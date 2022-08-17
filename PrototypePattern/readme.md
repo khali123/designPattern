@@ -5,6 +5,5 @@ This pattern creates a class that contains group of its own objects. This class 
 
 We are demonstrating use of composite pattern via following example in which we will show employees hierarchy of an organization.
 
-<h6>Implementation</h6>
-
+<h3>Implementation</h3>
 We have a class Employee which acts as composite pattern actor class. CompositePatternDemo, our demo class will use Employee class to add department level hierarchy and print all employees.
